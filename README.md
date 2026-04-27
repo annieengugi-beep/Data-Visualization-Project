@@ -5,6 +5,17 @@ Developed progressively across six milestones as part of a group data visualizat
 
 ---
 
+## Group Members
+1. Abby Sarah
+2. Asami Mary
+3. Annbel Muthoni
+4. Christine Wambui
+5. Chrystabel
+6. Esther Jubilee
+7. Joyce Wambu
+8. Rita Kimani
+9. Sharon
+
 ## Project Structure
 
 ```
@@ -16,7 +27,7 @@ Data-Visualization-Project/
 ├── notebooks/
 │   ├── load_dataset.ipynb    # Always run this first before any milestone notebook
 │   ├── milestone1_foundations.ipynb
-│   ├── milestone2_pipeline.ipynb
+│   ├── milestone2_pipeline.ipynbV
 │   ├── milestone3_visualization.ipynb
 │   ├── milestone4_statistics.ipynb
 │   ├── milestone5_dashboard.ipynb
@@ -46,7 +57,7 @@ Data-Visualization-Project/
 ## First-Time Setup (Run Once After Cloning) => Cloning is done after forking the repository from repo owner
 ### Step 1 — Clone the repo
 ```bash
-git clone git@github.com:mendarrr/Data-Visualization-Project.git
+git clone git@github.com:<username>/Data-Visualization-Project.git
 cd Data-Visualization-Project
 ```
 ### Step 2 — Create the virtual environment
